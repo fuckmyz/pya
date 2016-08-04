@@ -11,9 +11,6 @@ body {
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
 
 .full {
-    background: url('http://i1.kym-cdn.com/photos/images/original/000/431/693/4d4.jpg');
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+    background: url('http://i1.kym-cdn.com/photos/images/original/000/431/693/4d4.jpg') repeat;
+
 }
